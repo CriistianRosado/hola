@@ -1,0 +1,58 @@
+<style>
+#general {
+    background-color:blue;
+    height:10px;
+    width:17px;
+    margin-left:60px;
+}
+#header {
+    background-color:#1FC696;
+    height:70px;
+    width:1140px;
+    margin-left:60px;
+}
+#izq {
+    line-height:30px;
+    background-color:blue;
+    height:500px;
+    width:170px;
+    float:left;
+    margin-left:60px;
+}
+#section {
+    width:600px;
+    float:left;
+    padding:10px; 
+    height:570px;
+}
+#derarr {
+    width:300px;
+    float:left;
+    padding:10px; 
+    background-color:#726E6F;
+    margin:20px;
+}
+#deraba {
+    width:300px;
+    float:left;
+    padding:10px; 
+    background-color:green;
+    margin:20px;
+}
+thead {color:white;}
+tbody {color:black;}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+table th	{
+    background-color: black;
+}
+
+table td {    
+    background-color: #8DDABF;
+}
+</style>
